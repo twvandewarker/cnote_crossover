@@ -4,4 +4,4 @@ If you want to check out the EAGLE files, you will probably need my EAGLE librar
 
 The zip folder contains the Gerbers that I sent to get my boards. I used JLCPCB.
 
-This board uses the stock crossover components that come with the kit, plus a 6 pin Phoenix-type connector. The one I used is Wurth Electronics 691241610006, but any type of connector with 0.4" pitch will work. There are provisions for zip ties for the inductors. There is a place for the optional .22uF cap in parallel with the woofer's inductor. This was suggested by the speaker's designer in the forums to attenuate the woofer around it's cone breakup.
+This board uses the stock crossover components that come with the kit, plus a 6 pin Phoenix-type connector. The one I used is Wurth Electronics 691241610006, but any type of connector with 0.4" pitch will work. There are provisions for zip ties for the inductors. There is a place for the optional .22uF cap in parallel with the woofer's inductor. I used Dayton DMPC-0.22. This was suggested by the speaker's designer in the forums to attenuate the woofer around it's cone breakup.

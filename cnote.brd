@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.1.3">
+<eagle version="9.2.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -150,7 +150,7 @@
 <rectangle x1="-1.5875" y1="10.16" x2="1.5875" y2="11.7475" layer="46"/>
 <rectangle x1="-1.5875" y1="-11.7475" x2="1.5875" y2="-10.16" layer="46"/>
 </package>
-<package name="WURTH_WR-TBL-2418-6">
+<package name="WURTH_WR-TBL-2416-6">
 <pad name="P$4" x="5.08" y="0" drill="1.3" diameter="2.1"/>
 <pad name="P$3" x="-5.08" y="0" drill="1.3" diameter="2.1"/>
 <pad name="P$5" x="15.24" y="0" drill="1.3" diameter="2.1"/>
@@ -392,7 +392,7 @@ design rules under a new name.</description>
 <element name="R1" library="travis" package="DAYTON_48X10" value="6" x="44.45" y="69.85" smashed="yes" rot="R270">
 <attribute name="NAME" x="38.1" y="95.25" size="2.54" layer="25"/>
 </element>
-<element name="U$1" library="travis" package="WURTH_WR-TBL-2418-6" value="WURTH_WR-TBL-2418-6" x="3.81" y="50.8" rot="R90"/>
+<element name="U$1" library="travis" package="WURTH_WR-TBL-2416-6" value="WURTH_WR-TBL-2416-6" x="3.81" y="50.8" smashed="yes" rot="R90"/>
 </elements>
 <signals>
 <signal name="N$1">
