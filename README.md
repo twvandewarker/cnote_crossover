@@ -1,6 +1,8 @@
-This is a crossover board for Parts Express's C-Note bookshelf speaker. Here is a link to the speaker: https://www.parts-express.com/c-note-mt-bookshelf-speaker-kit-pair-with-knock-down-cabinets--300-7140
+# cnote_crossover
 
-If you want to check out the EAGLE files, you will probably need my EAGLE library, located here: https://github.com/twvandewarker/eagle_library
+This is a crossover board for Parts Express's C-Note bookshelf speaker kit: https://www.parts-express.com/c-note-mt-bookshelf-speaker-kit-pair-with-knock-down-cabinets--300-7140
+
+If you want to check out the EAGLE files, you will probably need my parts library, located here: https://github.com/twvandewarker/eagle_library
 
 The zip folder contains the Gerbers that I sent to get my boards. I used JLCPCB.
 
